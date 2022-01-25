@@ -20,7 +20,7 @@ request.setCharacterEncoding("UTF-8");
 </head>
 <body>
 	<div id='guide'>
-		<h1>입소비용 안내</h1>
+		<h1>입소비용 안내-찬우테스트</h1>
 		<h4>입소를 위한 비용을 안내합니다.(30일 기준)</h4>
 		<img src="/img/guide/cost.png"/>
 		<p>test</p>
