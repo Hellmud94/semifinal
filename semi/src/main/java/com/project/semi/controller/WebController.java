@@ -10,4 +10,7 @@ public class WebController {
 	public String main(Model model) {
 		return "main";
 	}
+
+	//수정
+
 }
